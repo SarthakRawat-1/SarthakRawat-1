@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![spaceshooter](assets/spaceshooter.gif)
+![spaceshooter](assets/SpaceShooter.gif)
 
 </div>
 
@@ -85,7 +85,7 @@
 <div align="center">
 <div align="center">
 
-<img src="assets/rabbit.gif" width="120" alt="rabbit" />
+<img src="assets/Rabbit.gif" width="120" alt="rabbit" />
 
 ### Let's Connect!
 
